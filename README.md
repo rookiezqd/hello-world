@@ -1,3 +1,3 @@
 # hello-world
-My first repository
+My first reposy
 i just want change something
